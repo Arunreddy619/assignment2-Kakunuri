@@ -37,4 +37,4 @@ I like **Hyderabad** because it is my Home town Other than that  my **family and
 # Quotes
 > - Arise,awake and donot stop until the goal is reached. 
 > - You cannot believe in God until you believe in yourself.<br/>
->                                    - By<br    />*Swami Vivekananda* 
+>                                    - By *Swami Vivekananda* 
