@@ -23,7 +23,7 @@ I like **Hyderabad** because it is my Home town Other than that  my **family and
 [AboutMe](https://github.com/Arunreddy619/assignment2-Kakunuri/blob/main/AboutMe.md)
 
 ---
-# Food/Drink that i recommend to Friend.
+# Food/Drink that I recommend to Friend.
 
 | Food/Drink | Location | Price |
 | ---------- | -------- | ----- |
@@ -31,3 +31,10 @@ I like **Hyderabad** because it is my Home town Other than that  my **family and
 |   Burger   | BurgerKing | $1 |
 | Nuggets | McDonalds | $2 |
 | softdrink | Dominos | $1.5 | 
+
+# Quotes
+---
+> - Arise,awake and donot stop until the goal is reached. 
+  - You cannot believe in God until you believe in yourself.
+                                     By
+                                       *Swami Vivekananda* 
