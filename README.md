@@ -32,8 +32,9 @@ I like **Hyderabad** because it is my Home town Other than that  my **family and
 | Nuggets | McDonalds | $2 |
 | softdrink | Dominos | $1.5 | 
 
-# Quotes
 ---
+
+# Quotes
 > - Arise,awake and donot stop until the goal is reached. 
 > - You cannot believe in God until you believe in yourself.<br/>
->                                    -- By<br/>*Swami Vivekananda* 
+>                                    - By<br/>*Swami Vivekananda* 
