@@ -21,3 +21,13 @@ I like **Hyderabad** because it is my Home town Other than that  my **family and
 - Shoes
 
 [AboutMe](https://github.com/Arunreddy619/assignment2-Kakunuri/blob/main/AboutMe.md)
+
+---
+# Food/Drink that i recommend to Friend.
+
+| Food/Drink | Location | Price |
+| ---------- | -------- | ----- |
+|    Pizza   | Pizzahut |   $5  |
+|   Burger   | BurgerKing | $1 |
+| Nuggets | McDonalds | $2 |
+| softdrink | Dominos | $1.5 | 
